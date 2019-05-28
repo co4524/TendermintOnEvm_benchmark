@@ -1,0 +1,1365 @@
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558797729.808791001
+Send_end_time= 1558798332.075221781
+Tx_rate= 1.9924
+AvgLatencyTime= 1.0720
+start_time= 1558797729.808791001
+end_time= 1558798332.279
+dur_time= 602.470208999
+TPS =1.9901
+failTx: 0
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558798349.623080731
+Send_end_time= 1558798951.886480021
+Tx_rate= 1.9924
+AvgLatencyTime= 1.3085
+start_time= 1558798349.623080731
+end_time= 1558798950.877
+dur_time= 601.253919269
+TPS =1.9891
+failTx: 1
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558798969.398874763
+Send_end_time= 1558799571.663795813
+Tx_rate= 1.9924
+AvgLatencyTime= 1.0777
+start_time= 1558798969.398874763
+end_time= 1558799571.258
+dur_time= 601.859125237
+TPS =1.9904
+failTx: 0
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558799589.060316837
+Send_end_time= 1558800191.337515452
+Tx_rate= 1.9924
+AvgLatencyTime= 1.0761
+start_time= 1558799589.060316837
+end_time= 1558800191.254
+dur_time= 602.193683163
+TPS =1.9893
+failTx: 0
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558800208.839960394
+Send_end_time= 1558800811.110237271
+Tx_rate= 1.9924
+AvgLatencyTime= 1.0709
+start_time= 1558800208.839960394
+end_time= 1558800810.300
+dur_time= 601.460039606
+TPS =1.9901
+failTx: 0
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558800828.988506200
+Send_end_time= 1558801311.331605550
+Tx_rate= 2.4878
+AvgLatencyTime= .4064
+start_time= 1558800828.988506200
+end_time= 1558801310.896
+dur_time= 481.907493800
+TPS =2.2535
+failTx: 111
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558801328.903435024
+Send_end_time= 1558801811.241913191
+Tx_rate= 2.4878
+AvgLatencyTime= .6067
+start_time= 1558801328.903435024
+end_time= 1558801811.639
+dur_time= 482.735564976
+TPS =2.2724
+failTx: 102
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558801828.900715679
+Send_end_time= 1558802311.239507392
+Tx_rate= 2.4878
+AvgLatencyTime= .8234
+start_time= 1558801828.900715679
+end_time= 1558802310.793
+dur_time= 481.892284321
+TPS =2.2909
+failTx: 93
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558802328.863188809
+Send_end_time= 1558802811.210908516
+Tx_rate= 2.4878
+AvgLatencyTime= 1.3646
+start_time= 1558802328.863188809
+end_time= 1558802810.655
+dur_time= 481.791811191
+TPS =2.2748
+failTx: 101
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558802828.726527508
+Send_end_time= 1558803311.054120959
+Tx_rate= 2.4879
+AvgLatencyTime= 1.7561
+start_time= 1558802828.726527508
+end_time= 1558803310.918
+dur_time= 482.191472492
+TPS =2.2646
+failTx: 106
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558803328.810328057
+Send_end_time= 1558803691.208796931
+Tx_rate= 3.3112
+AvgLatencyTime= 1.3828
+start_time= 1558803328.810328057
+end_time= 1558803690.864
+dur_time= 362.053671943
+TPS =2.7592
+failTx: 198
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558803708.885307733
+Send_end_time= 1558804071.286097025
+Tx_rate= 3.3112
+AvgLatencyTime= .8109
+start_time= 1558803708.885307733
+end_time= 1558804070.558
+dur_time= 361.672692267
+TPS =2.7649
+failTx: 197
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558804088.835314329
+Send_end_time= 1558804451.232078922
+Tx_rate= 3.3112
+AvgLatencyTime= 1.2057
+start_time= 1558804088.835314329
+end_time= 1558804450.682
+dur_time= 361.846685671
+TPS =2.7608
+failTx: 198
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558804468.851097386
+Send_end_time= 1558804831.265063821
+Tx_rate= 3.3111
+AvgLatencyTime= .8570
+start_time= 1558804468.851097386
+end_time= 1558804830.097
+dur_time= 361.245902614
+TPS =2.7709
+failTx: 195
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558804848.854964437
+Send_end_time= 1558805211.259637774
+Tx_rate= 3.3112
+AvgLatencyTime= 1.4125
+start_time= 1558804848.854964437
+end_time= 1558805210.512
+dur_time= 361.657035563
+TPS =2.7622
+failTx: 197
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558805228.907382934
+Send_end_time= 1558805471.357430912
+Tx_rate= 4.9494
+AvgLatencyTime= .6753
+start_time= 1558805228.907382934
+end_time= 1558805470.881
+dur_time= 241.973617066
+TPS =3.2524
+failTx: 409
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558805489.208495352
+Send_end_time= 1558805731.665790443
+Tx_rate= 4.9493
+AvgLatencyTime= 1.0645
+start_time= 1558805489.208495352
+end_time= 1558805731.721
+dur_time= 242.512504648
+TPS =3.2163
+failTx: 418
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558805749.532667532
+Send_end_time= 1558805991.994211786
+Tx_rate= 4.9492
+AvgLatencyTime= .7450
+start_time= 1558805749.532667532
+end_time= 1558805991.328
+dur_time= 241.795332468
+TPS =3.2589
+failTx: 408
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558806009.740296243
+Send_end_time= 1558806252.199096853
+Tx_rate= 4.9492
+AvgLatencyTime= 1.3586
+start_time= 1558806009.740296243
+end_time= 1558806251.625
+dur_time= 241.884703757
+TPS =3.2577
+failTx: 408
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558806270.049246753
+Send_end_time= 1558806512.496450877
+Tx_rate= 4.9495
+AvgLatencyTime= 1.5616
+start_time= 1558806270.049246753
+end_time= 1558806512.230
+dur_time= 242.180753247
+TPS =3.2207
+failTx: 416
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558806530.482573392
+Send_end_time= 1558806652.950212470
+Tx_rate= 9.7985
+AvgLatencyTime= 1.3846
+start_time= 1558806530.482573392
+end_time= 1558806653.390
+dur_time= 122.907426608
+TPS =6.6879
+failTx: 377
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558806670.542883147
+Send_end_time= 1558806793.012224323
+Tx_rate= 9.7983
+AvgLatencyTime= .9385
+start_time= 1558806670.542883147
+end_time= 1558806793.003
+dur_time= 122.460116853
+TPS =6.5735
+failTx: 391
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558806810.732600537
+Send_end_time= 1558806933.199719281
+Tx_rate= 9.7985
+AvgLatencyTime= 1.2571
+start_time= 1558806810.732600537
+end_time= 1558806932.925
+dur_time= 122.192399463
+TPS =6.6207
+failTx: 387
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558806950.927603198
+Send_end_time= 1558807073.393736707
+Tx_rate= 9.7986
+AvgLatencyTime= 1.1569
+start_time= 1558806950.927603198
+end_time= 1558807072.910
+dur_time= 121.982396802
+TPS =6.6894
+failTx: 379
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558807090.976016228
+Send_end_time= 1558807213.442824372
+Tx_rate= 9.7985
+AvgLatencyTime= 1.4218
+start_time= 1558807090.976016228
+end_time= 1558807212.762
+dur_time= 121.785983772
+TPS =6.6756
+failTx: 380
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558807231.301204667
+Send_end_time= 1558807323.765360653
+Tx_rate= 12.9780
+AvgLatencyTime= .1514
+start_time= 1558807231.301204667
+end_time= 1558807323.177
+dur_time= 91.875795333
+TPS =8.6421
+failTx: 398
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558807341.492983503
+Send_end_time= 1558807433.961852904
+Tx_rate= 12.9773
+AvgLatencyTime= .6219
+start_time= 1558807341.492983503
+end_time= 1558807433.686
+dur_time= 92.193016497
+TPS =8.5038
+failTx: 410
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558807451.578974959
+Send_end_time= 1558807544.039528012
+Tx_rate= 12.9785
+AvgLatencyTime= .1934
+start_time= 1558807451.578974959
+end_time= 1558807544.379
+dur_time= 92.800025041
+TPS =8.6961
+failTx: 391
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558807561.684596712
+Send_end_time= 1558807654.150706679
+Tx_rate= 12.9777
+AvgLatencyTime= .2054
+start_time= 1558807561.684596712
+end_time= 1558807653.484
+dur_time= 91.799403288
+TPS =8.6057
+failTx: 401
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558807671.858660593
+Send_end_time= 1558807764.320415326
+Tx_rate= 12.9783
+AvgLatencyTime= 1.2041
+start_time= 1558807671.858660593
+end_time= 1558807764.166
+dur_time= 92.307339407
+TPS =8.8725
+failTx: 376
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558807782.153247923
+Send_end_time= 1558807844.645437987
+Tx_rate= 19.2023
+AvgLatencyTime= 1.1437
+start_time= 1558807782.153247923
+end_time= 1558807844.528
+dur_time= 62.374752077
+TPS =13.5150
+failTx: 350
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558807862.189863530
+Send_end_time= 1558807924.674882513
+Tx_rate= 19.2046
+AvgLatencyTime= .8644
+start_time= 1558807862.189863530
+end_time= 1558807924.380
+dur_time= 62.190136470
+TPS =13.5873
+failTx: 347
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558807942.323166086
+Send_end_time= 1558808004.817033393
+Tx_rate= 19.2018
+AvgLatencyTime= 1.0704
+start_time= 1558807942.323166086
+end_time= 1558808004.791
+dur_time= 62.467833914
+TPS =13.5269
+failTx: 348
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808022.431351283
+Send_end_time= 1558808084.916467726
+Tx_rate= 19.2045
+AvgLatencyTime= 1.0931
+start_time= 1558808022.431351283
+end_time= 1558808084.784
+dur_time= 62.352648717
+TPS =13.5359
+failTx: 349
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808102.467160061
+Send_end_time= 1558808164.953347525
+Tx_rate= 19.2042
+AvgLatencyTime= 1.3673
+start_time= 1558808102.467160061
+end_time= 1558808165.047
+dur_time= 62.579839939
+TPS =13.5986
+failTx: 343
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808182.702394547
+Send_end_time= 1558808215.216872136
+Tx_rate= 36.9066
+AvgLatencyTime= .9228
+start_time= 1558808182.702394547
+end_time= 1558808214.774
+dur_time= 32.071605453
+TPS =24.6012
+failTx: 395
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808232.691091629
+Send_end_time= 1558808265.208867495
+Tx_rate= 36.9028
+AvgLatencyTime= .9088
+start_time= 1558808232.691091629
+end_time= 1558808264.750
+dur_time= 32.058908371
+TPS =24.5173
+failTx: 396
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808282.691071417
+Send_end_time= 1558808315.202693415
+Tx_rate= 36.9098
+AvgLatencyTime= .9060
+start_time= 1558808282.691071417
+end_time= 1558808315.645
+dur_time= 32.953928583
+TPS =25.0046
+failTx: 374
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808332.851371537
+Send_end_time= 1558808365.362029658
+Tx_rate= 36.9109
+AvgLatencyTime= .9391
+start_time= 1558808332.851371537
+end_time= 1558808365.619
+dur_time= 32.767628463
+TPS =24.5364
+failTx: 388
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808382.942920646
+Send_end_time= 1558808415.452737992
+Tx_rate= 36.9119
+AvgLatencyTime= .8594
+start_time= 1558808382.942920646
+end_time= 1558808415.280
+dur_time= 32.337079354
+TPS =25.0795
+failTx: 371
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808433.195416627
+Send_end_time= 1558808447.851137245
+Tx_rate= 81.8792
+AvgLatencyTime= .9743
+start_time= 1558808433.195416627
+end_time= 1558808447.196
+dur_time= 14.000583373
+TPS =54.0691
+failTx: 385
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808465.321833874
+Send_end_time= 1558808479.980158366
+Tx_rate= 81.8647
+AvgLatencyTime= 1.0992
+start_time= 1558808465.321833874
+end_time= 1558808480.323
+dur_time= 15.001166126
+TPS =53.1958
+failTx: 391
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808497.607089540
+Send_end_time= 1558808512.250756117
+Tx_rate= 81.9466
+AvgLatencyTime= 1.0095
+start_time= 1558808497.607089540
+end_time= 1558808512.381
+dur_time= 14.773910460
+TPS =54.8263
+failTx: 363
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808529.737879875
+Send_end_time= 1558808544.393849224
+Tx_rate= 81.8779
+AvgLatencyTime= .9471
+start_time= 1558808529.737879875
+end_time= 1558808544.223
+dur_time= 14.485120125
+TPS =54.5387
+failTx: 374
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808561.998704832
+Send_end_time= 1558808576.638375146
+Tx_rate= 81.9690
+AvgLatencyTime= .9627
+start_time= 1558808561.998704832
+end_time= 1558808575.864
+dur_time= 13.865295168
+TPS =55.5343
+failTx: 365
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808594.277191917
+Send_end_time= 1558808605.903360094
+Tx_rate= 103.2154
+AvgLatencyTime= .8752
+start_time= 1558808594.277191917
+end_time= 1558808605.176
+dur_time= 10.898808083
+TPS =66.8880
+failTx: 384
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808623.513970341
+Send_end_time= 1558808635.135270226
+Tx_rate= 103.2586
+AvgLatencyTime= .9138
+start_time= 1558808623.513970341
+end_time= 1558808634.485
+dur_time= 10.971029659
+TPS =65.4450
+failTx: 410
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808652.668059206
+Send_end_time= 1558808664.296361125
+Tx_rate= 103.1964
+AvgLatencyTime= 1.1529
+start_time= 1558808652.668059206
+end_time= 1558808664.047
+dur_time= 11.378940794
+TPS =64.2414
+failTx: 413
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808681.941166357
+Send_end_time= 1558808693.571110421
+Tx_rate= 103.1819
+AvgLatencyTime= 1.0150
+start_time= 1558808681.941166357
+end_time= 1558808693.067
+dur_time= 11.125833643
+TPS =65.0737
+failTx: 424
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808711.079571835
+Send_end_time= 1558808722.697210007
+Tx_rate= 103.2912
+AvgLatencyTime= 1.0990
+start_time= 1558808711.079571835
+end_time= 1558808722.378
+dur_time= 11.298428165
+TPS =64.0797
+failTx: 426
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808740.460757488
+Send_end_time= 1558808749.160187698
+Tx_rate= 137.9400
+AvgLatencyTime= 1.1426
+start_time= 1558808740.460757488
+end_time= 1558808748.951
+dur_time= 8.490242512
+TPS =85.0387
+failTx: 413
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808766.717728955
+Send_end_time= 1558808775.432547243
+Tx_rate= 137.6965
+AvgLatencyTime= .9004
+start_time= 1558808766.717728955
+end_time= 1558808775.069
+dur_time= 8.351271045
+TPS =88.9684
+failTx: 403
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808793.053982248
+Send_end_time= 1558808801.774263657
+Tx_rate= 137.6102
+AvgLatencyTime= 1.0423
+start_time= 1558808793.053982248
+end_time= 1558808801.561
+dur_time= 8.507017752
+TPS =86.3992
+failTx: 402
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808819.410119685
+Send_end_time= 1558808828.101414801
+Tx_rate= 138.0691
+AvgLatencyTime= .9534
+start_time= 1558808819.410119685
+end_time= 1558808827.721
+dur_time= 8.310880315
+TPS =89.6415
+failTx: 381
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808845.686537617
+Send_end_time= 1558808854.400080206
+Tx_rate= 137.7166
+AvgLatencyTime= 1.0374
+start_time= 1558808845.686537617
+end_time= 1558808854.093
+dur_time= 8.406462383
+TPS =85.4104
+failTx: 412
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808872.201408497
+Send_end_time= 1558808878.043731540
+Tx_rate= 205.3977
+AvgLatencyTime= .9812
+start_time= 1558808872.201408497
+end_time= 1558808877.732
+dur_time= 5.530591503
+TPS =125.3030
+failTx: 408
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808895.519804191
+Send_end_time= 1558808901.359564912
+Tx_rate= 205.4878
+AvgLatencyTime= 1.3029
+start_time= 1558808895.519804191
+end_time= 1558808901.541
+dur_time= 6.021195809
+TPS =116.4220
+failTx: 421
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808918.215354394
+Send_end_time= 1558808924.059716424
+Tx_rate= 205.3260
+AvgLatencyTime= 1.2237
+start_time= 1558808918.215354394
+end_time= 1558808924.286
+dur_time= 6.070645606
+TPS =116.7915
+failTx: 422
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808941.636542785
+Send_end_time= 1558808947.473102186
+Tx_rate= 205.6005
+AvgLatencyTime= .8688
+start_time= 1558808941.636542785
+end_time= 1558808947.917
+dur_time= 6.280457215
+TPS =124.3540
+failTx: 411
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808965.074366993
+Send_end_time= 1558808970.922582314
+Tx_rate= 205.1908
+AvgLatencyTime= 1.0847
+start_time= 1558808965.074366993
+end_time= 1558808970.701
+dur_time= 5.626633007
+TPS =120.8538
+failTx: 398
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558808988.642371333
+Send_end_time= 1558808992.829846166
+Tx_rate= 286.5688
+AvgLatencyTime= 1.1457
+start_time= 1558808988.642371333
+end_time= 1558808992.128
+dur_time= 3.485628667
+TPS =146.0281
+failTx: 485
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809010.386048254
+Send_end_time= 1558809014.541280070
+Tx_rate= 288.7925
+AvgLatencyTime= 1.2280
+start_time= 1558809010.386048254
+end_time= 1558809014.773
+dur_time= 4.386951746
+TPS =158.1964
+failTx: 414
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809032.094056510
+Send_end_time= 1558809036.268215639
+Tx_rate= 287.4830
+AvgLatencyTime= 1.0670
+start_time= 1558809032.094056510
+end_time= 1558809036.019
+dur_time= 3.924943490
+TPS =163.0596
+failTx: 411
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809053.890885037
+Send_end_time= 1558809058.056216080
+Tx_rate= 288.0923
+AvgLatencyTime= 1.0567
+start_time= 1558809053.890885037
+end_time= 1558809058.672
+dur_time= 4.781114963
+TPS =158.1221
+failTx: 441
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809075.569218684
+Send_end_time= 1558809079.761464521
+Tx_rate= 286.2427
+AvgLatencyTime= 1.3230
+start_time= 1558809075.569218684
+end_time= 1558809080.108
+dur_time= 4.538781316
+TPS =151.3622
+failTx: 424
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809097.523837344
+Send_end_time= 1558809101.456752694
+Tx_rate= 305.1171
+AvgLatencyTime= 1.3793
+start_time= 1558809097.523837344
+end_time= 1558809101.629
+dur_time= 4.105162656
+TPS =153.4652
+failTx: 383
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809119.014035417
+Send_end_time= 1558809122.984417721
+Tx_rate= 302.2378
+AvgLatencyTime= 1.2046
+start_time= 1558809119.014035417
+end_time= 1558809123.020
+dur_time= 4.005964583
+TPS =170.9950
+failTx: 355
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809140.519914584
+Send_end_time= 1558809144.462914837
+Tx_rate= 304.3367
+AvgLatencyTime= 1.0617
+start_time= 1558809140.519914584
+end_time= 1558809144.129
+dur_time= 3.609085416
+TPS =167.6324
+failTx: 420
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809162.071351204
+Send_end_time= 1558809165.989715265
+Tx_rate= 306.2502
+AvgLatencyTime= 1.1523
+start_time= 1558809162.071351204
+end_time= 1558809166.587
+dur_time= 4.515648796
+TPS =160.5527
+failTx: 467
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809183.566272746
+Send_end_time= 1558809187.478563537
+Tx_rate= 306.7256
+AvgLatencyTime= 1.1359
+start_time= 1558809183.566272746
+end_time= 1558809188.028
+dur_time= 4.461727254
+TPS =160.7000
+failTx: 479
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809205.276439589
+Send_end_time= 1558809208.961094603
+Tx_rate= 325.6749
+AvgLatencyTime= 1.0707
+start_time= 1558809205.276439589
+end_time= 1558809209.505
+dur_time= 4.228560411
+TPS =178.3112
+failTx: 422
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809226.583280054
+Send_end_time= 1558809230.280086783
+Tx_rate= 324.6044
+AvgLatencyTime= 1.0582
+start_time= 1558809226.583280054
+end_time= 1558809230.762
+dur_time= 4.178719946
+TPS =178.0449
+failTx: 422
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809247.766478349
+Send_end_time= 1558809251.458475403
+Tx_rate= 325.0273
+AvgLatencyTime= 1.0576
+start_time= 1558809247.766478349
+end_time= 1558809251.875
+dur_time= 4.108521651
+TPS =181.0870
+failTx: 414
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809269.066409852
+Send_end_time= 1558809272.762710158
+Tx_rate= 324.6489
+AvgLatencyTime= 1.2233
+start_time= 1558809269.066409852
+end_time= 1558809273.057
+dur_time= 3.990590148
+TPS =167.8949
+failTx: 431
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809290.382493515
+Send_end_time= 1558809294.051221328
+Tx_rate= 327.0888
+AvgLatencyTime= 1.0902
+start_time= 1558809290.382493515
+end_time= 1558809294.256
+dur_time= 3.873506485
+TPS =179.1658
+failTx: 438
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809311.739972901
+Send_end_time= 1558809315.197287170
+Tx_rate= 347.0902
+AvgLatencyTime= 1.1020
+start_time= 1558809311.739972901
+end_time= 1558809315.739
+dur_time= 3.999027099
+TPS =184.2948
+failTx: 457
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809332.850350767
+Send_end_time= 1558809336.300594996
+Tx_rate= 347.8014
+AvgLatencyTime= .9914
+start_time= 1558809332.850350767
+end_time= 1558809336.839
+dur_time= 3.988649233
+TPS =189.7885
+failTx: 421
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809353.936734755
+Send_end_time= 1558809357.413314928
+Tx_rate= 345.1667
+AvgLatencyTime= 1.0389
+start_time= 1558809353.936734755
+end_time= 1558809356.963
+dur_time= 3.026265245
+TPS =192.3162
+failTx: 444
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809374.918367954
+Send_end_time= 1558809378.404935552
+Tx_rate= 344.1780
+AvgLatencyTime= 1.0076
+start_time= 1558809374.918367954
+end_time= 1558809377.874
+dur_time= 2.955632046
+TPS =188.4537
+failTx: 454
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809396.022074877
+Send_end_time= 1558809399.509868763
+Tx_rate= 344.0570
+AvgLatencyTime= 1.0279
+start_time= 1558809396.022074877
+end_time= 1558809399.050
+dur_time= 3.027925123
+TPS =190.8897
+failTx: 449
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809417.296764093
+Send_end_time= 1558809420.661822608
+Tx_rate= 356.6059
+AvgLatencyTime= 1.0170
+start_time= 1558809417.296764093
+end_time= 1558809420.228
+dur_time= 2.931235907
+TPS =202.3037
+failTx: 444
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809438.260883583
+Send_end_time= 1558809441.670286212
+Tx_rate= 351.9678
+AvgLatencyTime= 1.2416
+start_time= 1558809438.260883583
+end_time= 1558809441.461
+dur_time= 3.200116417
+TPS =189.9930
+failTx: 420
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809459.228210345
+Send_end_time= 1558809462.608898023
+Tx_rate= 354.9573
+AvgLatencyTime= 1.3215
+start_time= 1558809459.228210345
+end_time= 1558809462.719
+dur_time= 3.490789655
+TPS =185.9178
+failTx: 413
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809480.211093895
+Send_end_time= 1558809483.618127477
+Tx_rate= 352.2125
+AvgLatencyTime= 1.1261
+start_time= 1558809480.211093895
+end_time= 1558809483.917
+dur_time= 3.705906105
+TPS =191.5860
+failTx: 383
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809501.234470438
+Send_end_time= 1558809504.603088717
+Tx_rate= 356.2291
+AvgLatencyTime= 1.1128
+start_time= 1558809501.234470438
+end_time= 1558809505.076
+dur_time= 3.841529562
+TPS =183.7809
+failTx: 446
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809522.413079163
+Send_end_time= 1558809525.759008126
+Tx_rate= 358.6447
+AvgLatencyTime= 1.0395
+start_time= 1558809522.413079163
+end_time= 1558809526.188
+dur_time= 3.774920837
+TPS =193.9113
+failTx: 411
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809543.272388220
+Send_end_time= 1558809546.598768925
+Tx_rate= 360.7524
+AvgLatencyTime= .9889
+start_time= 1558809543.272388220
+end_time= 1558809546.119
+dur_time= 2.846611780
+TPS =198.1302
+failTx: 437
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809564.237774092
+Send_end_time= 1558809567.600139177
+Tx_rate= 356.8916
+AvgLatencyTime= 1.1017
+start_time= 1558809564.237774092
+end_time= 1558809567.277
+dur_time= 3.039225908
+TPS =197.4186
+failTx: 423
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809585.227079755
+Send_end_time= 1558809588.525859862
+Tx_rate= 363.7708
+AvgLatencyTime= 1.5161
+start_time= 1558809585.227079755
+end_time= 1558809589.118
+dur_time= 3.890920245
+TPS =192.7564
+failTx: 430
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809606.054545143
+Send_end_time= 1558809609.376383213
+Tx_rate= 361.2457
+AvgLatencyTime= 1.0007
+start_time= 1558809606.054545143
+end_time= 1558809608.888
+dur_time= 2.833454857
+TPS =197.9915
+failTx: 442
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809627.165760711
+Send_end_time= 1558809630.490212581
+Tx_rate= 360.9617
+AvgLatencyTime= 1.1586
+start_time= 1558809627.165760711
+end_time= 1558809630.264
+dur_time= 3.098239289
+TPS =197.8543
+failTx: 412
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809648.090378714
+Send_end_time= 1558809651.398167509
+Tx_rate= 362.7801
+AvgLatencyTime= 1.0764
+start_time= 1558809648.090378714
+end_time= 1558809651.948
+dur_time= 3.857621286
+TPS =191.3096
+failTx: 452
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809668.961361398
+Send_end_time= 1558809672.298468576
+Tx_rate= 359.5928
+AvgLatencyTime= 1.4197
+start_time= 1558809668.961361398
+end_time= 1558809672.203
+dur_time= 3.241638602
+TPS =200.5158
+failTx: 311
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809689.789278370
+Send_end_time= 1558809693.088216799
+Tx_rate= 363.7533
+AvgLatencyTime= 1.1732
+start_time= 1558809689.789278370
+end_time= 1558809693.477
+dur_time= 3.687721630
+TPS =183.5821
+failTx: 455
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809710.759398246
+Send_end_time= 1558809714.069016460
+Tx_rate= 362.5795
+AvgLatencyTime= 1.0624
+start_time= 1558809710.759398246
+end_time= 1558809713.569
+dur_time= 2.809601754
+TPS =186.8592
+failTx: 436
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809731.761790705
+Send_end_time= 1558809735.067101195
+Tx_rate= 363.0521
+AvgLatencyTime= 1.2091
+start_time= 1558809731.761790705
+end_time= 1558809734.848
+dur_time= 3.086209295
+TPS =193.4411
+failTx: 412
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809752.633655583
+Send_end_time= 1558809755.943215808
+Tx_rate= 362.5859
+AvgLatencyTime= 1.2231
+start_time= 1558809752.633655583
+end_time= 1558809755.926
+dur_time= 3.292344417
+TPS =197.4277
+failTx: 396
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809773.558184590
+Send_end_time= 1558809776.821270539
+Tx_rate= 367.7500
+AvgLatencyTime= 1.3072
+start_time= 1558809773.558184590
+end_time= 1558809776.924
+dur_time= 3.365815410
+TPS =191.9297
+failTx: 394
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809794.311861268
+Send_end_time= 1558809797.587752973
+Tx_rate= 366.3124
+AvgLatencyTime= 1.0180
+start_time= 1558809794.311861268
+end_time= 1558809797.164
+dur_time= 2.852138732
+TPS =199.4994
+failTx: 429
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809815.191897992
+Send_end_time= 1558809818.489036378
+Tx_rate= 363.9519
+AvgLatencyTime= 1.1436
+start_time= 1558809815.191897992
+end_time= 1558809818.247
+dur_time= 3.055102008
+TPS =203.2665
+failTx: 400
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809836.211840984
+Send_end_time= 1558809839.465967610
+Tx_rate= 368.7625
+AvgLatencyTime= 1.3903
+start_time= 1558809836.211840984
+end_time= 1558809839.643
+dur_time= 3.431159016
+TPS =190.6061
+failTx: 449
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809857.006337911
+Send_end_time= 1558809860.286411413
+Tx_rate= 365.8454
+AvgLatencyTime= 1.1867
+start_time= 1558809857.006337911
+end_time= 1558809859.852
+dur_time= 2.845662089
+TPS =181.6800
+failTx: 414
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809877.863017151
+Send_end_time= 1558809881.141512310
+Tx_rate= 366.0215
+AvgLatencyTime= 1.4240
+start_time= 1558809877.863017151
+end_time= 1558809881.169
+dur_time= 3.305982849
+TPS =182.6990
+failTx: 409
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809898.770930443
+Send_end_time= 1558809902.085736404
+Tx_rate= 362.0121
+AvgLatencyTime= 1.0300
+start_time= 1558809898.770930443
+end_time= 1558809902.591
+dur_time= 3.820069557
+TPS =193.9755
+failTx: 420
+-------------------------------------------
+
+----------------TestResult-----------------
+total_send= 1200
+Send_start_time= 1558809919.710878549
+Send_end_time= 1558809923.015105220
+Tx_rate= 363.1712
+AvgLatencyTime= 1.0358
+start_time= 1558809919.710878549
+end_time= 1558809922.624
+dur_time= 2.913121451
+TPS =205.2780
+failTx: 413
+-------------------------------------------
