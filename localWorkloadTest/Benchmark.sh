@@ -5,6 +5,12 @@ path_avg_latency=$path2/latency
 path_avg_txRate=$path2/txRate
 path_avg_fail=$path2/fail
 ################################
+ip=localhost
+threadNum=2  #concurent num
+nodeNum=4    #workload Send txNum
+txTime=5   #test time
+batchNum=0
+
 array=(
 0.5
 0.4
@@ -34,14 +40,44 @@ ResetReport(){
 	touch $path_report
 }
 
-Benchmark() {
+
+SpeedTest(){
 
 	for i in "${array[@]}"
 	do
-		./Performance.sh $i 10 localhost
+		./Performance.sh $i 3 1
+	done
+
+	index=0
+	while read line; 
+	do
+   		VARS[$index]="$line"
+   		index=`expr $index + 1`
+
+	done < $path_avg_txRate
+
+	for ((index=0; index<${#VARS[@]}; index++)); 
+	do
+   		#echo "[$index]: ${VARS[$index]}"
+		batchNum[$index]=$(echo "scale = 0; ${VARS[$index]}*$txTime/$threadNum/$nodeNum" | bc -l)
+		echo "[$index]: ${batchNum[$index]}"
 	done
 
 }
 
+Benchmark() {
+
+	index=0
+	for i in "${array[@]}"
+	do
+		./Performance.sh $i ${batchNum[$index]} 10
+		let index=index+1
+	done
+
+}
+
+ResetReport
+SpeedTest
+sleep 3
 ResetReport
 Benchmark

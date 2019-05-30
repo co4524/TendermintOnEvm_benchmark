@@ -102,7 +102,7 @@ SCP_instance(){
 
 main(){
 
-	for ((j=0 ; j<10 ; j++)){
+	for ((j=0 ; j<$5 ; j++)){
 		ResetLogFile
 		start_time=$( date +%s.%N )
 		for ((i=1 ; i<2 ; i++)){
@@ -120,7 +120,7 @@ main(){
 }
 
 Reset
-main $1 $2 $3 $4
+main $1 $2 $3 $4 $5      ##[1]:sleep time  [2]:iteration time  [3]:ip address [4]:instance_name [5]:重複測試次數
 ##Eval data
 tps=$(Cal_tps)
 latency=$(Cal_latency)

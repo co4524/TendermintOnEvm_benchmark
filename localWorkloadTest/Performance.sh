@@ -95,13 +95,14 @@ WorkLoad(){
 
 main(){
 
-	for ((j=0 ; j<10 ; j++)){
+	for ((j=0 ; j<$3 ; j++)){
+		echo "StartTesting"
 		ResetLogFile
 		start_time=$( date +%s.%N )
 		for ((i=1 ; i<2 ; i++)){
-			WorkLoad $1 $2 $3 &
+			WorkLoad $1 $2 localhost &
 		}
-		WorkLoad $1 $2 $3
+		WorkLoad $1 $2 localhost
 		elapsed_time=$( date +%s.%N --date="$start_time seconds ago" )
 		echo "TimeLeft= $elapsed_time"
 	sleep 2
