@@ -1,0 +1,1820 @@
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559228867.796010591
+Send_end_time= 1559228887.368461152
+tx_rate= 4.0873
+mod_tx_num= 76
+start_time= 1559228867.796010591
+end_time= 1559228886.894
+dur_time= 19.097989409
+TPS =3.9794
+AvgLatencyTime= .7282
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559228891.171808431
+Send_end_time= 1559228910.742332508
+tx_rate= 4.0877
+mod_tx_num= 76
+start_time= 1559228891.171808431
+end_time= 1559228910.111
+dur_time= 18.939191569
+TPS =4.0128
+AvgLatencyTime= .5721
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559228914.546511937
+Send_end_time= 1559228934.117020535
+tx_rate= 4.0877
+mod_tx_num= 76
+start_time= 1559228914.546511937
+end_time= 1559228933.327
+dur_time= 18.780488063
+TPS =4.0467
+AvgLatencyTime= .4151
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559228937.922918797
+Send_end_time= 1559228957.493725891
+tx_rate= 4.0877
+mod_tx_num= 76
+start_time= 1559228937.922918797
+end_time= 1559228956.549
+dur_time= 18.626081203
+TPS =4.0803
+AvgLatencyTime= .6132
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559228961.291157769
+Send_end_time= 1559228980.863815160
+tx_rate= 4.0873
+mod_tx_num= 78
+start_time= 1559228961.291157769
+end_time= 1559228980.779
+dur_time= 19.487842231
+TPS =4.0024
+AvgLatencyTime= .6152
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559228984.660928147
+Send_end_time= 1559229004.232744433
+tx_rate= 4.0875
+mod_tx_num= 78
+start_time= 1559228984.660928147
+end_time= 1559229003.994
+dur_time= 19.333071853
+TPS =4.0345
+AvgLatencyTime= .4638
+-----------TestResult---------------
+Success_tx: 79
+Repeat_hash: 0
+Nonce Too high: 1
+Total send: 80
+Send_start_time= 1559229008.046035217
+Send_end_time= 1559229027.617973596
+tx_rate= 4.0874
+mod_tx_num= 77
+start_time= 1559229008.046035217
+end_time= 1559229027.216
+dur_time= 19.169964783
+TPS =4.0167
+AvgLatencyTime= .4936
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229031.419686256
+Send_end_time= 1559229050.990558724
+tx_rate= 4.0877
+mod_tx_num= 76
+start_time= 1559229031.419686256
+end_time= 1559229050.431
+dur_time= 19.011313744
+TPS =3.9976
+AvgLatencyTime= .6457
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229054.804375424
+Send_end_time= 1559229074.375623534
+tx_rate= 4.0876
+mod_tx_num= 76
+start_time= 1559229054.804375424
+end_time= 1559229073.650
+dur_time= 18.845624576
+TPS =4.0327
+AvgLatencyTime= .4797
+-----------TestResult---------------
+Success_tx: 79
+Repeat_hash: 0
+Nonce Too high: 1
+Total send: 80
+Send_start_time= 1559229078.188197232
+Send_end_time= 1559229097.761479463
+tx_rate= 4.0872
+mod_tx_num= 75
+start_time= 1559229078.188197232
+end_time= 1559229096.866
+dur_time= 18.677802768
+TPS =4.0154
+AvgLatencyTime= .4314
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229101.771098861
+Send_end_time= 1559229117.443854667
+tx_rate= 5.1043
+mod_tx_num= 76
+start_time= 1559229101.771098861
+end_time= 1559229117.057
+dur_time= 15.285901139
+TPS =4.9719
+AvgLatencyTime= .5850
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229121.132508383
+Send_end_time= 1559229136.801757991
+tx_rate= 5.1055
+mod_tx_num= 76
+start_time= 1559229121.132508383
+end_time= 1559229136.239
+dur_time= 15.106491617
+TPS =5.0309
+AvgLatencyTime= .5846
+-----------TestResult---------------
+Success_tx: 79
+Repeat_hash: 0
+Nonce Too high: 1
+Total send: 80
+Send_start_time= 1559229140.504288767
+Send_end_time= 1559229156.173603511
+tx_rate= 5.1055
+mod_tx_num= 75
+start_time= 1559229140.504288767
+end_time= 1559229155.421
+dur_time= 14.916711233
+TPS =5.0279
+AvgLatencyTime= .5635
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229159.853977676
+Send_end_time= 1559229175.524950269
+tx_rate= 5.1049
+mod_tx_num= 74
+start_time= 1559229159.853977676
+end_time= 1559229174.601
+dur_time= 14.747022324
+TPS =5.0179
+AvgLatencyTime= .5023
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229179.211146621
+Send_end_time= 1559229194.880771471
+tx_rate= 5.1054
+mod_tx_num= 78
+start_time= 1559229179.211146621
+end_time= 1559229194.790
+dur_time= 15.578853379
+TPS =5.0067
+AvgLatencyTime= .4892
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229198.573162327
+Send_end_time= 1559229214.242680011
+tx_rate= 5.1054
+mod_tx_num= 78
+start_time= 1559229198.573162327
+end_time= 1559229213.974
+dur_time= 15.400837673
+TPS =5.0646
+AvgLatencyTime= .4991
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229217.946976738
+Send_end_time= 1559229233.617030015
+tx_rate= 5.1052
+mod_tx_num= 76
+start_time= 1559229217.946976738
+end_time= 1559229233.158
+dur_time= 15.211023262
+TPS =4.9963
+AvgLatencyTime= .5091
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229237.326395319
+Send_end_time= 1559229252.999582750
+tx_rate= 5.1042
+mod_tx_num= 76
+start_time= 1559229237.326395319
+end_time= 1559229252.343
+dur_time= 15.016604681
+TPS =5.0610
+AvgLatencyTime= .5149
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229256.702048039
+Send_end_time= 1559229272.373728257
+tx_rate= 5.1047
+mod_tx_num= 74
+start_time= 1559229256.702048039
+end_time= 1559229271.526
+dur_time= 14.823951961
+TPS =4.9919
+AvgLatencyTime= .5282
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229276.084082579
+Send_end_time= 1559229291.755643833
+tx_rate= 5.1047
+mod_tx_num= 78
+start_time= 1559229276.084082579
+end_time= 1559229291.719
+dur_time= 15.634917421
+TPS =4.9888
+AvgLatencyTime= .5310
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229295.671127118
+Send_end_time= 1559229307.442441231
+tx_rate= 6.7961
+mod_tx_num= 74
+start_time= 1559229295.671127118
+end_time= 1559229306.866
+dur_time= 11.194872882
+TPS =6.6101
+AvgLatencyTime= .5626
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229311.026320946
+Send_end_time= 1559229322.795261286
+tx_rate= 6.7975
+mod_tx_num= 74
+start_time= 1559229311.026320946
+end_time= 1559229322.016
+dur_time= 10.989679054
+TPS =6.7335
+AvgLatencyTime= .5581
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229326.388424917
+Send_end_time= 1559229338.158179783
+tx_rate= 6.7970
+mod_tx_num= 78
+start_time= 1559229326.388424917
+end_time= 1559229338.168
+dur_time= 11.779575083
+TPS =6.6216
+AvgLatencyTime= .5449
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229341.742739609
+Send_end_time= 1559229353.512374670
+tx_rate= 6.7971
+mod_tx_num= 78
+start_time= 1559229341.742739609
+end_time= 1559229353.313
+dur_time= 11.570260391
+TPS =6.7414
+AvgLatencyTime= .5351
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229357.086848954
+Send_end_time= 1559229368.858258231
+tx_rate= 6.7961
+mod_tx_num= 76
+start_time= 1559229357.086848954
+end_time= 1559229368.454
+dur_time= 11.367151046
+TPS =6.6859
+AvgLatencyTime= .5362
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229372.435339545
+Send_end_time= 1559229384.206221717
+tx_rate= 6.7964
+mod_tx_num= 74
+start_time= 1559229372.435339545
+end_time= 1559229383.598
+dur_time= 11.162660455
+TPS =6.6292
+AvgLatencyTime= .5314
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229387.798373702
+Send_end_time= 1559229399.569966739
+tx_rate= 6.7960
+mod_tx_num= 74
+start_time= 1559229387.798373702
+end_time= 1559229398.744
+dur_time= 10.945626298
+TPS =6.7606
+AvgLatencyTime= .5159
+-----------TestResult---------------
+Success_tx: 79
+Repeat_hash: 1
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229403.164833825
+Send_end_time= 1559229414.936613465
+tx_rate= 6.7959
+mod_tx_num= 77
+start_time= 1559229403.164833825
+end_time= 1559229414.894
+dur_time= 11.729166175
+TPS =6.5648
+AvgLatencyTime= .5381
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229418.513242372
+Send_end_time= 1559229430.286317249
+tx_rate= 6.7951
+mod_tx_num= 78
+start_time= 1559229418.513242372
+end_time= 1559229430.037
+dur_time= 11.523757628
+TPS =6.7686
+AvgLatencyTime= .5386
+-----------TestResult---------------
+Success_tx: 79
+Repeat_hash: 0
+Nonce Too high: 1
+Total send: 80
+Send_start_time= 1559229433.877353800
+Send_end_time= 1559229445.650908937
+tx_rate= 6.7948
+mod_tx_num= 75
+start_time= 1559229433.877353800
+end_time= 1559229445.182
+dur_time= 11.304646200
+TPS =6.6344
+AvgLatencyTime= .5642
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229449.440786698
+Send_end_time= 1559229457.312065976
+tx_rate= 10.1635
+mod_tx_num= 78
+start_time= 1559229449.440786698
+end_time= 1559229457.299
+dur_time= 7.858213302
+TPS =9.9259
+AvgLatencyTime= .5904
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229460.793887104
+Send_end_time= 1559229468.665817320
+tx_rate= 10.1626
+mod_tx_num= 76
+start_time= 1559229460.793887104
+end_time= 1559229468.408
+dur_time= 7.614112896
+TPS =9.9814
+AvgLatencyTime= .5467
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229472.149439756
+Send_end_time= 1559229480.018861732
+tx_rate= 10.1659
+mod_tx_num= 74
+start_time= 1559229472.149439756
+end_time= 1559229479.515
+dur_time= 7.365560244
+TPS =10.0467
+AvgLatencyTime= .5024
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229483.495899603
+Send_end_time= 1559229491.366061119
+tx_rate= 10.1649
+mod_tx_num= 72
+start_time= 1559229483.495899603
+end_time= 1559229490.619
+dur_time= 7.123100397
+TPS =10.1079
+AvgLatencyTime= .4615
+-----------TestResult---------------
+Success_tx: 66
+Repeat_hash: 13
+Nonce Too high: 1
+Total send: 80
+Send_start_time= 1559229494.838266873
+Send_end_time= 1559229502.709805185
+tx_rate= 10.1631
+mod_tx_num= 64
+start_time= 1559229494.838266873
+end_time= 1559229502.735
+dur_time= 7.896733127
+TPS =8.1046
+AvgLatencyTime= .5419
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229506.066069062
+Send_end_time= 1559229513.938168804
+tx_rate= 10.1624
+mod_tx_num= 78
+start_time= 1559229506.066069062
+end_time= 1559229513.840
+dur_time= 7.773930938
+TPS =10.0335
+AvgLatencyTime= .5061
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229517.424681107
+Send_end_time= 1559229525.295743873
+tx_rate= 10.1638
+mod_tx_num= 76
+start_time= 1559229517.424681107
+end_time= 1559229524.943
+dur_time= 7.518318893
+TPS =10.1086
+AvgLatencyTime= .4537
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229528.783780774
+Send_end_time= 1559229536.655406499
+tx_rate= 10.1630
+mod_tx_num= 72
+start_time= 1559229528.783780774
+end_time= 1559229536.050
+dur_time= 7.266219226
+TPS =9.9088
+AvgLatencyTime= .6045
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229540.142119934
+Send_end_time= 1559229548.014467516
+tx_rate= 10.1621
+mod_tx_num= 70
+start_time= 1559229540.142119934
+end_time= 1559229547.159
+dur_time= 7.016880066
+TPS =9.9759
+AvgLatencyTime= .5562
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229551.500538192
+Send_end_time= 1559229559.373256582
+tx_rate= 10.1616
+mod_tx_num= 78
+start_time= 1559229551.500538192
+end_time= 1559229559.275
+dur_time= 7.774461808
+TPS =10.0328
+AvgLatencyTime= .5066
+-----------TestResult---------------
+Success_tx: 72
+Repeat_hash: 8
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229563.072524312
+Send_end_time= 1559229567.043568362
+tx_rate= 20.1458
+mod_tx_num= 58
+start_time= 1559229563.072524312
+end_time= 1559229566.351
+dur_time= 3.278475688
+TPS =17.6911
+AvgLatencyTime= .5345
+-----------TestResult---------------
+Success_tx: 74
+Repeat_hash: 6
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229570.350892665
+Send_end_time= 1559229574.319956904
+tx_rate= 20.1558
+mod_tx_num= 54
+start_time= 1559229570.350892665
+end_time= 1559229573.418
+dur_time= 3.067107335
+TPS =17.6061
+AvgLatencyTime= .5412
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229577.641432718
+Send_end_time= 1559229581.610088309
+tx_rate= 20.1579
+mod_tx_num= 76
+start_time= 1559229577.641432718
+end_time= 1559229581.497
+dur_time= 3.855567282
+TPS =19.7117
+AvgLatencyTime= .5576
+-----------TestResult---------------
+Success_tx: 74
+Repeat_hash: 6
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229584.977844792
+Send_end_time= 1559229588.947278010
+tx_rate= 20.1540
+mod_tx_num= 66
+start_time= 1559229584.977844792
+end_time= 1559229588.565
+dur_time= 3.587155208
+TPS =18.3989
+AvgLatencyTime= .5266
+-----------TestResult---------------
+Success_tx: 72
+Repeat_hash: 7
+Nonce Too high: 1
+Total send: 80
+Send_start_time= 1559229592.255187594
+Send_end_time= 1559229596.225258928
+tx_rate= 20.1507
+mod_tx_num= 60
+start_time= 1559229592.255187594
+end_time= 1559229595.633
+dur_time= 3.377812406
+TPS =17.7629
+AvgLatencyTime= .5332
+-----------TestResult---------------
+Success_tx: 76
+Repeat_hash: 4
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229599.510299424
+Send_end_time= 1559229603.479629758
+tx_rate= 20.1545
+mod_tx_num= 60
+start_time= 1559229599.510299424
+end_time= 1559229602.701
+dur_time= 3.190700576
+TPS =18.8046
+AvgLatencyTime= .5229
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229606.826066082
+Send_end_time= 1559229610.795881527
+tx_rate= 20.1520
+mod_tx_num= 78
+start_time= 1559229606.826066082
+end_time= 1559229610.781
+dur_time= 3.954933918
+TPS =19.7222
+AvgLatencyTime= .5554
+-----------TestResult---------------
+Success_tx: 76
+Repeat_hash: 4
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229614.178288745
+Send_end_time= 1559229618.149400857
+tx_rate= 20.1454
+mod_tx_num= 68
+start_time= 1559229614.178288745
+end_time= 1559229617.849
+dur_time= 3.670711255
+TPS =18.5250
+AvgLatencyTime= .5476
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229621.495922051
+Send_end_time= 1559229625.466730343
+tx_rate= 20.1470
+mod_tx_num= 68
+start_time= 1559229621.495922051
+end_time= 1559229624.916
+dur_time= 3.420077949
+TPS =19.8825
+AvgLatencyTime= .5247
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229628.854333869
+Send_end_time= 1559229632.827035881
+tx_rate= 20.1374
+mod_tx_num= 62
+start_time= 1559229628.854333869
+end_time= 1559229631.983
+dur_time= 3.128666131
+TPS =19.8167
+AvgLatencyTime= .5363
+-----------TestResult---------------
+Success_tx: 78
+Repeat_hash: 2
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229636.420022114
+Send_end_time= 1559229639.414648789
+tx_rate= 26.7145
+mod_tx_num= 68
+start_time= 1559229636.420022114
+end_time= 1559229639.056
+dur_time= 2.635977886
+TPS =25.7968
+AvgLatencyTime= .5432
+-----------TestResult---------------
+Success_tx: 76
+Repeat_hash: 4
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229642.750423388
+Send_end_time= 1559229645.746355054
+tx_rate= 26.7028
+mod_tx_num= 58
+start_time= 1559229642.750423388
+end_time= 1559229645.114
+dur_time= 2.363576612
+TPS =24.5390
+AvgLatencyTime= .5338
+-----------TestResult---------------
+Success_tx: 76
+Repeat_hash: 4
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229649.058112776
+Send_end_time= 1559229652.051720033
+tx_rate= 26.7236
+mod_tx_num= 52
+start_time= 1559229649.058112776
+end_time= 1559229651.170
+dur_time= 2.111887224
+TPS =24.6225
+AvgLatencyTime= .5399
+-----------TestResult---------------
+Success_tx: 78
+Repeat_hash: 2
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229655.356848844
+Send_end_time= 1559229658.351204952
+tx_rate= 26.7169
+mod_tx_num= 72
+start_time= 1559229655.356848844
+end_time= 1559229658.238
+dur_time= 2.881151156
+TPS =24.9900
+AvgLatencyTime= .5629
+-----------TestResult---------------
+Success_tx: 76
+Repeat_hash: 4
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229661.648184122
+Send_end_time= 1559229664.641857582
+tx_rate= 26.7230
+mod_tx_num= 66
+start_time= 1559229661.648184122
+end_time= 1559229664.296
+dur_time= 2.647815878
+TPS =24.9262
+AvgLatencyTime= .5431
+-----------TestResult---------------
+Success_tx: 78
+Repeat_hash: 2
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229667.948499104
+Send_end_time= 1559229670.942495271
+tx_rate= 26.7201
+mod_tx_num= 62
+start_time= 1559229667.948499104
+end_time= 1559229670.358
+dur_time= 2.409500896
+TPS =25.7314
+AvgLatencyTime= .5430
+-----------TestResult---------------
+Success_tx: 78
+Repeat_hash: 2
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229674.275527380
+Send_end_time= 1559229677.270557863
+tx_rate= 26.7109
+mod_tx_num= 54
+start_time= 1559229674.275527380
+end_time= 1559229676.417
+dur_time= 2.141472620
+TPS =25.2162
+AvgLatencyTime= .5293
+-----------TestResult---------------
+Success_tx: 78
+Repeat_hash: 2
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229680.606181653
+Send_end_time= 1559229683.601241556
+tx_rate= 26.7106
+mod_tx_num= 72
+start_time= 1559229680.606181653
+end_time= 1559229683.485
+dur_time= 2.878818347
+TPS =25.0102
+AvgLatencyTime= .5608
+-----------TestResult---------------
+Success_tx: 78
+Repeat_hash: 2
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229686.940975116
+Send_end_time= 1559229689.936615060
+tx_rate= 26.7054
+mod_tx_num= 66
+start_time= 1559229686.940975116
+end_time= 1559229689.547
+dur_time= 2.606024884
+TPS =25.3259
+AvgLatencyTime= .5369
+-----------TestResult---------------
+Success_tx: 76
+Repeat_hash: 4
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229693.268158914
+Send_end_time= 1559229696.264931090
+tx_rate= 26.6953
+mod_tx_num= 58
+start_time= 1559229693.268158914
+end_time= 1559229695.605
+dur_time= 2.336841086
+TPS =24.8198
+AvgLatencyTime= .5338
+-----------TestResult---------------
+Success_tx: 78
+Repeat_hash: 2
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229699.791959730
+Send_end_time= 1559229701.810753236
+tx_rate= 39.6276
+mod_tx_num= 70
+start_time= 1559229699.791959730
+end_time= 1559229701.674
+dur_time= 1.882040270
+TPS =37.1936
+AvgLatencyTime= .5536
+-----------TestResult---------------
+Success_tx: 76
+Repeat_hash: 4
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229705.083931458
+Send_end_time= 1559229707.102628025
+tx_rate= 39.6295
+mod_tx_num= 60
+start_time= 1559229705.083931458
+end_time= 1559229706.723
+dur_time= 1.639068542
+TPS =36.6061
+AvgLatencyTime= .5470
+-----------TestResult---------------
+Success_tx: 76
+Repeat_hash: 4
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229710.392333413
+Send_end_time= 1559229712.410641719
+tx_rate= 39.6371
+mod_tx_num= 50
+start_time= 1559229710.392333413
+end_time= 1559229711.771
+dur_time= 1.378666587
+TPS =36.2669
+AvgLatencyTime= .5404
+-----------TestResult---------------
+Success_tx: 78
+Repeat_hash: 2
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229715.696046114
+Send_end_time= 1559229717.714580290
+tx_rate= 39.6327
+mod_tx_num= 42
+start_time= 1559229715.696046114
+end_time= 1559229716.820
+dur_time= 1.123953886
+TPS =37.3680
+AvgLatencyTime= .5288
+-----------TestResult---------------
+Success_tx: 78
+Repeat_hash: 2
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229720.999032257
+Send_end_time= 1559229723.015043616
+tx_rate= 39.6823
+mod_tx_num= 70
+start_time= 1559229720.999032257
+end_time= 1559229722.880
+dur_time= 1.880967743
+TPS =37.2148
+AvgLatencyTime= .5538
+-----------TestResult---------------
+Success_tx: 76
+Repeat_hash: 4
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229726.307620056
+Send_end_time= 1559229728.326264462
+tx_rate= 39.6305
+mod_tx_num= 60
+start_time= 1559229726.307620056
+end_time= 1559229727.932
+dur_time= 1.624379944
+TPS =36.9371
+AvgLatencyTime= .5332
+-----------TestResult---------------
+Success_tx: 78
+Repeat_hash: 2
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229731.616583005
+Send_end_time= 1559229733.635623611
+tx_rate= 39.6227
+mod_tx_num= 50
+start_time= 1559229731.616583005
+end_time= 1559229732.979
+dur_time= 1.362416995
+TPS =36.6994
+AvgLatencyTime= .5374
+-----------TestResult---------------
+Success_tx: 78
+Repeat_hash: 2
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229736.939393900
+Send_end_time= 1559229738.958436302
+tx_rate= 39.6227
+mod_tx_num= 40
+start_time= 1559229736.939393900
+end_time= 1559229738.028
+dur_time= 1.088606100
+TPS =36.7442
+AvgLatencyTime= .5453
+-----------TestResult---------------
+Success_tx: 76
+Repeat_hash: 4
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229742.268937258
+Send_end_time= 1559229744.288295487
+tx_rate= 39.6165
+mod_tx_num= 66
+start_time= 1559229742.268937258
+end_time= 1559229744.086
+dur_time= 1.817062742
+TPS =36.3223
+AvgLatencyTime= .5518
+-----------TestResult---------------
+Success_tx: 78
+Repeat_hash: 2
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229747.588320462
+Send_end_time= 1559229749.608336667
+tx_rate= 39.6036
+mod_tx_num= 58
+start_time= 1559229747.588320462
+end_time= 1559229749.137
+dur_time= 1.548679538
+TPS =37.4512
+AvgLatencyTime= .5442
+-----------TestResult---------------
+Success_tx: 78
+Repeat_hash: 2
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229753.121429417
+Send_end_time= 1559229754.165453633
+tx_rate= 76.6265
+mod_tx_num= 74
+start_time= 1559229753.121429417
+end_time= 1559229754.213
+dur_time= 1.091570583
+TPS =67.7922
+AvgLatencyTime= .6050
+-----------TestResult---------------
+Success_tx: 76
+Repeat_hash: 4
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229757.434726085
+Send_end_time= 1559229758.477881061
+tx_rate= 76.6904
+mod_tx_num= 56
+start_time= 1559229757.434726085
+end_time= 1559229758.242
+dur_time= .807273915
+TPS =69.3692
+AvgLatencyTime= .5567
+-----------TestResult---------------
+Success_tx: 76
+Repeat_hash: 4
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229761.735826785
+Send_end_time= 1559229762.779266239
+tx_rate= 76.6695
+mod_tx_num= 36
+start_time= 1559229761.735826785
+end_time= 1559229762.263
+dur_time= .527173215
+TPS =68.2887
+AvgLatencyTime= .5368
+-----------TestResult---------------
+Success_tx: 78
+Repeat_hash: 2
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229766.037900312
+Send_end_time= 1559229767.081582932
+tx_rate= 76.6516
+mod_tx_num= 16
+start_time= 1559229766.037900312
+end_time= 1559229766.288
+dur_time= .250099688
+TPS =63.9744
+AvgLatencyTime= .5510
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229770.340043885
+Send_end_time= 1559229771.383531334
+tx_rate= 76.6659
+mod_tx_num= 72
+start_time= 1559229770.340043885
+end_time= 1559229771.381
+dur_time= 1.040956115
+TPS =69.1671
+AvgLatencyTime= .6160
+-----------TestResult---------------
+Success_tx: 76
+Repeat_hash: 3
+Nonce Too high: 1
+Total send: 80
+Send_start_time= 1559229774.665422877
+Send_end_time= 1559229775.709231397
+tx_rate= 76.6424
+mod_tx_num= 52
+start_time= 1559229774.665422877
+end_time= 1559229775.405
+dur_time= .739577123
+TPS =70.3104
+AvgLatencyTime= .5402
+-----------TestResult---------------
+Success_tx: 77
+Repeat_hash: 3
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229778.972385290
+Send_end_time= 1559229780.016023994
+tx_rate= 76.6548
+mod_tx_num= 31
+start_time= 1559229778.972385290
+end_time= 1559229779.432
+dur_time= .459614710
+TPS =67.4477
+AvgLatencyTime= .5451
+-----------TestResult---------------
+Success_tx: 78
+Repeat_hash: 2
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229783.262142774
+Send_end_time= 1559229784.305556842
+tx_rate= 76.6713
+mod_tx_num= 12
+start_time= 1559229783.262142774
+end_time= 1559229783.461
+dur_time= .198857226
+TPS =60.3448
+AvgLatencyTime= .5600
+-----------TestResult---------------
+Success_tx: 74
+Repeat_hash: 5
+Nonce Too high: 1
+Total send: 80
+Send_start_time= 1559229787.595488971
+Send_end_time= 1559229788.639061555
+tx_rate= 76.6597
+mod_tx_num= 66
+start_time= 1559229787.595488971
+end_time= 1559229788.551
+dur_time= .955511029
+TPS =69.0729
+AvgLatencyTime= .5698
+-----------TestResult---------------
+Success_tx: 76
+Repeat_hash: 4
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229791.896005710
+Send_end_time= 1559229792.940442608
+tx_rate= 76.5962
+mod_tx_num= 46
+start_time= 1559229791.896005710
+end_time= 1559229792.578
+dur_time= .681994290
+TPS =67.4492
+AvgLatencyTime= .5579
+-----------TestResult---------------
+Success_tx: 74
+Repeat_hash: 6
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229796.414508707
+Send_end_time= 1559229796.875856197
+tx_rate= 173.4050
+mod_tx_num= 24
+start_time= 1559229796.414508707
+end_time= 1559229796.602
+dur_time= .187491293
+TPS =128.0059
+AvgLatencyTime= .6434
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229800.101346124
+Send_end_time= 1559229800.561802981
+tx_rate= 173.7404
+mod_tx_num= 80
+start_time= 1559229800.101346124
+end_time= 1559229800.677
+dur_time= .575653876
+TPS =138.9723
+AvgLatencyTime= .3456
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229803.848353557
+Send_end_time= 1559229804.309310483
+tx_rate= 173.5520
+mod_tx_num= 80
+start_time= 1559229803.848353557
+end_time= 1559229804.717
+dur_time= .868646443
+TPS =92.0973
+AvgLatencyTime= .6383
+-----------TestResult---------------
+Success_tx: 76
+Repeat_hash: 4
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229807.580042605
+Send_end_time= 1559229808.041082914
+tx_rate= 173.5206
+mod_tx_num= 14
+start_time= 1559229807.580042605
+end_time= 1559229807.700
+dur_time= .119957395
+TPS =116.7081
+AvgLatencyTime= .7342
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229811.272464542
+Send_end_time= 1559229811.733789085
+tx_rate= 173.4137
+mod_tx_num= 72
+start_time= 1559229811.272464542
+end_time= 1559229811.785
+dur_time= .512535458
+TPS =140.4780
+AvgLatencyTime= .3779
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229815.003089681
+Send_end_time= 1559229815.465359968
+tx_rate= 173.0589
+mod_tx_num= 80
+start_time= 1559229815.003089681
+end_time= 1559229815.828
+dur_time= .824910319
+TPS =96.9802
+AvgLatencyTime= .5942
+-----------TestResult---------------
+Success_tx: 76
+Repeat_hash: 4
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229818.744241226
+Send_end_time= 1559229819.207081260
+tx_rate= 172.8458
+mod_tx_num= 4
+start_time= 1559229818.744241226
+end_time= 1559229818.801
+dur_time= .056758774
+TPS =70.4736
+AvgLatencyTime= .8189
+-----------TestResult---------------
+Success_tx: 72
+Repeat_hash: 8
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229822.455578871
+Send_end_time= 1559229822.917643285
+tx_rate= 173.1360
+mod_tx_num= 60
+start_time= 1559229822.455578871
+end_time= 1559229822.890
+dur_time= .434421129
+TPS =138.1148
+AvgLatencyTime= .3813
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229826.146468730
+Send_end_time= 1559229826.610116893
+tx_rate= 172.5446
+mod_tx_num= 80
+start_time= 1559229826.146468730
+end_time= 1559229826.939
+dur_time= .792531270
+TPS =100.9423
+AvgLatencyTime= .5617
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229829.895616747
+Send_end_time= 1559229830.360130828
+tx_rate= 172.2229
+mod_tx_num= 80
+start_time= 1559229829.895616747
+end_time= 1559229830.977
+dur_time= 1.081383253
+TPS =73.9793
+AvgLatencyTime= .8498
+-----------TestResult---------------
+Success_tx: 74
+Repeat_hash: 6
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229833.852280477
+Send_end_time= 1559229834.217870392
+tx_rate= 218.8244
+mod_tx_num= 14
+start_time= 1559229833.852280477
+end_time= 1559229833.963
+dur_time= .110719523
+TPS =126.4456
+AvgLatencyTime= .7693
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229837.442346145
+Send_end_time= 1559229837.804869116
+tx_rate= 220.6756
+mod_tx_num= 80
+start_time= 1559229837.442346145
+end_time= 1559229838.055
+dur_time= .612653855
+TPS =130.5794
+AvgLatencyTime= .4314
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229841.081933812
+Send_end_time= 1559229841.442693234
+tx_rate= 221.7544
+mod_tx_num= 80
+start_time= 1559229841.081933812
+end_time= 1559229842.101
+dur_time= 1.019066188
+TPS =78.5032
+AvgLatencyTime= .8387
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229844.710084346
+Send_end_time= 1559229845.074071111
+tx_rate= 219.7882
+mod_tx_num= 72
+start_time= 1559229844.710084346
+end_time= 1559229845.129
+dur_time= .418915654
+TPS =171.8723
+AvgLatencyTime= .3336
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229848.340250647
+Send_end_time= 1559229848.703835324
+tx_rate= 220.0312
+mod_tx_num= 80
+start_time= 1559229848.340250647
+end_time= 1559229849.172
+dur_time= .831749353
+TPS =96.1828
+AvgLatencyTime= .6502
+-----------TestResult---------------
+Success_tx: 70
+Repeat_hash: 10
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229851.971427189
+Send_end_time= 1559229852.335441482
+tx_rate= 219.7715
+mod_tx_num= 32
+start_time= 1559229851.971427189
+end_time= 1559229852.178
+dur_time= .206572811
+TPS =154.9090
+AvgLatencyTime= .5703
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229855.527901439
+Send_end_time= 1559229855.895683053
+tx_rate= 217.5203
+mod_tx_num= 80
+start_time= 1559229855.527901439
+end_time= 1559229856.249
+dur_time= .721098561
+TPS =110.9418
+AvgLatencyTime= .5378
+-----------TestResult---------------
+Success_tx: 76
+Repeat_hash: 3
+Nonce Too high: 1
+Total send: 80
+Send_start_time= 1559229859.179556090
+Send_end_time= 1559229859.544646576
+tx_rate= 219.1237
+mod_tx_num= 2
+start_time= 1559229859.179556090
+end_time= 1559229859.219
+dur_time= .039443910
+TPS =50.7049
+AvgLatencyTime= .8853
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229862.789143251
+Send_end_time= 1559229863.153463033
+tx_rate= 219.5873
+mod_tx_num= 80
+start_time= 1559229862.789143251
+end_time= 1559229863.318
+dur_time= .528856749
+TPS =151.2696
+AvgLatencyTime= .3470
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229866.443755263
+Send_end_time= 1559229866.810465802
+tx_rate= 218.1557
+mod_tx_num= 80
+start_time= 1559229866.443755263
+end_time= 1559229867.360
+dur_time= .916244737
+TPS =87.3129
+AvgLatencyTime= .7341
+-----------TestResult---------------
+Success_tx: 76
+Repeat_hash: 4
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229870.297591357
+Send_end_time= 1559229870.565861365
+tx_rate= 298.2070
+mod_tx_num= 76
+start_time= 1559229870.297591357
+end_time= 1559229871.396
+dur_time= 1.098408643
+TPS =69.1910
+AvgLatencyTime= .9575
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229873.793588412
+Send_end_time= 1559229874.059774526
+tx_rate= 300.5415
+mod_tx_num= 80
+start_time= 1559229873.793588412
+end_time= 1559229874.429
+dur_time= .635411588
+TPS =125.9026
+AvgLatencyTime= .5019
+-----------TestResult---------------
+Success_tx: 72
+Repeat_hash: 7
+Nonce Too high: 1
+Total send: 80
+Send_start_time= 1559229877.338891236
+Send_end_time= 1559229877.607335750
+tx_rate= 298.0131
+mod_tx_num= 9
+start_time= 1559229877.338891236
+end_time= 1559229877.411
+dur_time= .072108764
+TPS =124.8114
+AvgLatencyTime= .8440
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229880.799004666
+Send_end_time= 1559229881.069201079
+tx_rate= 296.0809
+mod_tx_num= 80
+start_time= 1559229880.799004666
+end_time= 1559229881.501
+dur_time= .701995334
+TPS =113.9608
+AvgLatencyTime= .5672
+-----------TestResult---------------
+Success_tx: 67
+Repeat_hash: 12
+Nonce Too high: 1
+Total send: 80
+Send_start_time= 1559229884.333846356
+Send_end_time= 1559229884.602688255
+tx_rate= 297.5726
+mod_tx_num= 32
+start_time= 1559229884.333846356
+end_time= 1559229884.503
+dur_time= .169153644
+TPS =189.1771
+AvgLatencyTime= .5594
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229887.758296942
+Send_end_time= 1559229888.027650125
+tx_rate= 297.0078
+mod_tx_num= 80
+start_time= 1559229887.758296942
+end_time= 1559229888.571
+dur_time= .812703058
+TPS =98.4369
+AvgLatencyTime= .6791
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229891.303142933
+Send_end_time= 1559229891.570993485
+tx_rate= 298.6740
+mod_tx_num= 62
+start_time= 1559229891.303142933
+end_time= 1559229891.597
+dur_time= .293857067
+TPS =210.9869
+AvgLatencyTime= .3788
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229894.853203537
+Send_end_time= 1559229895.123386908
+tx_rate= 296.0952
+mod_tx_num= 80
+start_time= 1559229894.853203537
+end_time= 1559229895.645
+dur_time= .791796463
+TPS =101.0360
+AvgLatencyTime= .6578
+-----------TestResult---------------
+Success_tx: 71
+Repeat_hash: 9
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229898.404347206
+Send_end_time= 1559229898.676502289
+tx_rate= 293.9500
+mod_tx_num= 53
+start_time= 1559229898.404347206
+end_time= 1559229898.665
+dur_time= .260652794
+TPS =203.3356
+AvgLatencyTime= .3807
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229901.829785054
+Send_end_time= 1559229902.083308428
+tx_rate= 315.5527
+mod_tx_num= 80
+start_time= 1559229901.829785054
+end_time= 1559229902.721
+dur_time= .891214946
+TPS =89.7651
+AvgLatencyTime= .7645
+-----------TestResult---------------
+Success_tx: 61
+Repeat_hash: 18
+Nonce Too high: 1
+Total send: 80
+Send_start_time= 1559229905.569533614
+Send_end_time= 1559229905.748461452
+tx_rate= 447.1076
+mod_tx_num= 36
+start_time= 1559229905.569533614
+end_time= 1559229905.722
+dur_time= .152466386
+TPS =236.1176
+AvgLatencyTime= .4750
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229908.866856641
+Send_end_time= 1559229909.042788783
+tx_rate= 454.7207
+mod_tx_num= 80
+start_time= 1559229908.866856641
+end_time= 1559229909.789
+dur_time= .922143359
+TPS =86.7544
+AvgLatencyTime= .8354
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229912.321729772
+Send_end_time= 1559229912.497754587
+tx_rate= 454.4813
+mod_tx_num= 80
+start_time= 1559229912.321729772
+end_time= 1559229912.817
+dur_time= .495270228
+TPS =161.5279
+AvgLatencyTime= .4079
+-----------TestResult---------------
+Success_tx: 74
+Repeat_hash: 5
+Nonce Too high: 1
+Total send: 80
+Send_start_time= 1559229915.758950592
+Send_end_time= 1559229915.935354337
+tx_rate= 453.5051
+mod_tx_num= 74
+start_time= 1559229915.758950592
+end_time= 1559229916.854
+dur_time= 1.095049408
+TPS =67.5768
+AvgLatencyTime= 1.0012
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229919.132935251
+Send_end_time= 1559229919.312532181
+tx_rate= 445.4419
+mod_tx_num= 80
+start_time= 1559229919.132935251
+end_time= 1559229919.888
+dur_time= .755064749
+TPS =105.9511
+AvgLatencyTime= .6658
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229922.583105116
+Send_end_time= 1559229922.759442351
+tx_rate= 453.6761
+mod_tx_num= 80
+start_time= 1559229922.583105116
+end_time= 1559229922.919
+dur_time= .335894884
+TPS =238.1697
+AvgLatencyTime= .2485
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229926.039062510
+Send_end_time= 1559229926.214332377
+tx_rate= 456.4389
+mod_tx_num= 80
+start_time= 1559229926.039062510
+end_time= 1559229926.957
+dur_time= .917937490
+TPS =87.1519
+AvgLatencyTime= .8304
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229929.490552687
+Send_end_time= 1559229929.669839222
+tx_rate= 446.2130
+mod_tx_num= 80
+start_time= 1559229929.490552687
+end_time= 1559229929.986
+dur_time= .495447313
+TPS =161.4702
+AvgLatencyTime= .4069
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229932.947542610
+Send_end_time= 1559229933.125866602
+tx_rate= 448.6216
+mod_tx_num= 80
+start_time= 1559229932.947542610
+end_time= 1559229934.026
+dur_time= 1.078457390
+TPS =74.1800
+AvgLatencyTime= .9906
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229936.409093267
+Send_end_time= 1559229936.586220703
+tx_rate= 451.6522
+mod_tx_num= 80
+start_time= 1559229936.409093267
+end_time= 1559229937.055
+dur_time= .645906733
+TPS =123.8568
+AvgLatencyTime= .5580
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229940.079936880
+Send_end_time= 1559229940.208549473
+tx_rate= 622.0230
+mod_tx_num= 80
+start_time= 1559229940.079936880
+end_time= 1559229941.095
+dur_time= 1.015063120
+TPS =78.8128
+AvgLatencyTime= .9518
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229943.479746459
+Send_end_time= 1559229943.608801359
+tx_rate= 619.8912
+mod_tx_num= 80
+start_time= 1559229943.479746459
+end_time= 1559229944.125
+dur_time= .645253541
+TPS =123.9822
+AvgLatencyTime= .5814
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229946.895785553
+Send_end_time= 1559229947.030928319
+tx_rate= 591.9665
+mod_tx_num= 80
+start_time= 1559229946.895785553
+end_time= 1559229947.157
+dur_time= .261214447
+TPS =306.2617
+AvgLatencyTime= .1969
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229950.295643611
+Send_end_time= 1559229950.429493068
+tx_rate= 597.6863
+mod_tx_num= 80
+start_time= 1559229950.295643611
+end_time= 1559229951.193
+dur_time= .897356389
+TPS =89.1507
+AvgLatencyTime= .8336
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229953.691761025
+Send_end_time= 1559229953.821915772
+tx_rate= 614.6529
+mod_tx_num= 80
+start_time= 1559229953.691761025
+end_time= 1559229954.223
+dur_time= .531238975
+TPS =150.5913
+AvgLatencyTime= .4675
+-----------TestResult---------------
+Success_tx: 59
+Repeat_hash: 20
+Nonce Too high: 1
+Total send: 80
+Send_start_time= 1559229957.091585873
+Send_end_time= 1559229957.226083786
+tx_rate= 594.8047
+mod_tx_num= 36
+start_time= 1559229957.091585873
+end_time= 1559229957.234
+dur_time= .142414127
+TPS =252.7839
+AvgLatencyTime= .4674
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229960.340711614
+Send_end_time= 1559229960.474219643
+tx_rate= 599.2148
+mod_tx_num= 80
+start_time= 1559229960.340711614
+end_time= 1559229961.296
+dur_time= .955288386
+TPS =83.7443
+AvgLatencyTime= .8906
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229963.749893628
+Send_end_time= 1559229963.882941919
+tx_rate= 601.2854
+mod_tx_num= 80
+start_time= 1559229963.749893628
+end_time= 1559229964.326
+dur_time= .576106372
+TPS =138.8632
+AvgLatencyTime= .5114
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229967.157017921
+Send_end_time= 1559229967.290281002
+tx_rate= 600.3163
+mod_tx_num= 60
+start_time= 1559229967.157017921
+end_time= 1559229967.349
+dur_time= .191982079
+TPS =312.5291
+AvgLatencyTime= .3716
+-----------TestResult---------------
+Success_tx: 80
+Repeat_hash: 0
+Nonce Too high: 0
+Total send: 80
+Send_start_time= 1559229970.565296448
+Send_end_time= 1559229970.705023574
+tx_rate= 572.5445
+mod_tx_num= 80
+start_time= 1559229970.565296448
+end_time= 1559229971.398
+dur_time= .832703552
+TPS =96.0726
+AvgLatencyTime= .7648
