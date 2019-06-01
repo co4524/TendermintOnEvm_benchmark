@@ -66,6 +66,13 @@ CalculateTps(){
 	echo $tps >> $path_tps
 }
 
+Get_fail_rate(){
+	total=$(Get_request_num)
+	fail_rate=$(echo "scale=4;$repeat_hash/$total" | bc )
+	echo $fail_rate >> $path_fail
+	echo "FailRate = $fail_rate" >> $path_report
+}
+
 PreprocessTxt(){
 	comma='.'
 	for line in `cat $path_blockCommitTime`
@@ -185,9 +192,9 @@ echo "Success_tx: $success_tx" >> $path_report
 echo "Repeat_hash: $repeat_hash" >> $path_report
 echo "Nonce Too high: $nonce_high_tx" >> $path_report
 echo "Total send: $total_send" >> $path_report
-echo $repeat_hash >> $path_fail
 Get_tx_rate
 PreprocessTxt
 CalculateTps
+Get_fail_rate
 CalculateLatency
 
