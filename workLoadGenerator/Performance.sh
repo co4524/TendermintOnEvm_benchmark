@@ -120,7 +120,7 @@ main(){
 }
 
 Reset
-main $1 $2 $3 $4 $5      ##[1]:sleep time  [2]:iteration time  [3]:ip address [4]:instance_name [5]:重複測試次數
+main $1 $2 $3 $4 $5      ##[1]:sleep time  [2]:iteration time  [3]:ip address [4]:instance_name [5]:test time
 ##Eval data
 tps=$(Cal_tps)
 latency=$(Cal_latency)

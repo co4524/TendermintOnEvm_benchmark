@@ -108,7 +108,7 @@ CalculateLatency(){
 	avg_latency=$(echo "scale=4;$sum/$(Get_success_tx)" | bc)
 	echo "AvgLatencyTime= $avg_latency" >> $path_report
 	echo $avg_latency >> $path_latency
-
+	echo "Shell:$avg_latency"
 }
 
 Get_request_num(){
@@ -196,5 +196,9 @@ Get_tx_rate
 PreprocessTxt
 CalculateTps
 Get_fail_rate
-CalculateLatency
+#CalculateLatency
+latency=$(python latency.py)
+echo "Python:$latency"
+echo "Avg_latency= $latency" >> $path_report
+echo $latency >> $path_latency
 
