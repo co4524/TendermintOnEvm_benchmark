@@ -20,6 +20,8 @@ path_avg_tps=$path2/tps
 path_avg_latency=$path2/latency
 path_avg_txRate=$path2/txRate
 path_avg_fail=$path2/fail
+path_workload=$HOME/evm-lite-js/test/workload.js
+path_cal=$HOME/evm-lite-js/test/cal.py
 
 
 ResetLogFile(){
@@ -74,23 +76,8 @@ Reset(){
 	touch $path_fail
 }
 
-Send_tx(){
-	start_time=$( date +%s.%N )
-	curl -X POST http://$4:8080/tx -d '{"from":"'0x$1'","to":"'0x$2'","value":'$3'}' -s
-	echo $start_time >> $path_txRequestTime
-}
-
 WorkLoad(){
-	for ((i=0;i<$2;i++)){
-		Send_tx d3fe6e278f533c62dc0ffe060af4bb09b79ed0df 2100f32235a599dd1ad6cc24bb54c856a9f12798 1 $3 >> $path_rawData & 
-		sleep $1
-		Send_tx b2f094f1ba8bbb363c128b37fbe83235b3bfc0a9 2100f32235a599dd1ad6cc24bb54c856a9f12798 1 $3 >> $path_rawData &
-		sleep $1
-		Send_tx d22312c75d4132959777c8d79bf402f31ab688dc 2100f32235a599dd1ad6cc24bb54c856a9f12798 1 $3 >> $path_rawData &
-		sleep $1
-		Send_tx 1f3e38f742d9a73483c3f80fdd5d116d61438db5 2100f32235a599dd1ad6cc24bb54c856a9f12798 1 $3 >> $path_rawData &
-		sleep $1
-	}
+	node $path_workload $1 $2 
 }
 
 SCP_instance(){
@@ -102,32 +89,29 @@ SCP_instance(){
 
 main(){
 
-	for ((j=0 ; j<$5 ; j++)){
+	for ((j=0 ; j<$3 ; j++)){
 		ResetLogFile
 		start_time=$( date +%s.%N )
-		for ((i=1 ; i<2 ; i++)){
-			WorkLoad $1 $2 $3 &
-		}
-		WorkLoad $1 $2 $3
+		#for ((i=1 ; i<2 ; i++)){
+		#	WorkLoad $1 $2 $3 &
+		#}
+		WorkLoad $1 $2 
 		elapsed_time=$( date +%s.%N --date="$start_time seconds ago" )
 		echo "TimeLeft= $elapsed_time"
 		sleep 2
 		SCP_instance $4
 		echo "CalPerformance....."
-		./calResult.sh
+		python $path_cal 
 
 	}
 }
 
 Reset
-main $1 $2 $3 $4 $5      ##[1]:sleep time  [2]:iteration time  [3]:ip address [4]:instance_name [5]:test time
-##Eval data
+main $1 $2 $3 $4    ##[1] sleep time : ms [2] iter   [3]: iter
 tps=$(Cal_tps)
 latency=$(Cal_latency)
 tx_rate=$(Cal_txRate)
-failTx=$(Cal_failTx)
 echo $tps >> $path_avg_tps
 echo $latency >> $path_avg_latency
 echo $tx_rate >> $path_avg_txRate
-echo $failTx >> $path_avg_fail
 #Reset

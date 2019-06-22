@@ -1,7 +1,7 @@
 path=$HOME/TendermintOnEvm_benchmark/data
 path_blockTxNum=$path/blockTxNum.txt
 path_blockCommitTime=$path/blockCommitTime.txt
-path_txRequestTime=$path/txRequestTime.txt
+path_txRequestTime=$HOME//evm-lite-js/test/txRequestTime
 path_rawData=$path/rawData
 path_log=$path/log
 path_repeatHash=$path/repeatHash
