@@ -91,13 +91,13 @@ main(){
 
 	for ((j=0 ; j<$3 ; j++)){
 		ResetLogFile
-		start_time=$( date +%s.%N )
+		#start_time=$( date +%s.%N )
 		#for ((i=1 ; i<2 ; i++)){
 		#	WorkLoad $1 $2 $3 &
 		#}
 		WorkLoad $1 $2 
-		elapsed_time=$( date +%s.%N --date="$start_time seconds ago" )
-		echo "TimeLeft= $elapsed_time"
+		#elapsed_time=$( date +%s.%N --date="$start_time seconds ago" )
+		#echo "TimeLeft= $elapsed_time"
 		sleep 2
 		SCP_instance $4
 		echo "CalPerformance....."
@@ -107,7 +107,7 @@ main(){
 }
 
 Reset
-main $1 $2 $3 $4    ##[1] sleep time : ms [2] iter   [3]: iter
+main $1 $2 $3 $4    ##[1] sleep time : ms  [2] tx_num  [3]: iter [4]: instance name
 tps=$(Cal_tps)
 latency=$(Cal_latency)
 tx_rate=$(Cal_txRate)
