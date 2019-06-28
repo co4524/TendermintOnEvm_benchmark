@@ -14,19 +14,7 @@ path_tf=$path/tf
 rm $path_blockTxNum
 rm $path_blockCommitTime
 rm $path_txRequestTime
-rm $path_rawData
-rm $path_log
-rm $path_repeatHash
-rm $path_nonce
-rm $path_preCommitTime
-rm $path_tf
 #################################
 touch $path_blockTxNum
 touch $path_blockCommitTime
 touch $path_txRequestTime
-touch $path_rawData
-touch $path_log
-touch $path_repeatHash
-touch $path_nonce
-touch $path_preCommitTime
-touch $path_tf

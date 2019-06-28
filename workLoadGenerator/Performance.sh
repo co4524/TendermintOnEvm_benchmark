@@ -28,52 +28,13 @@ ResetLogFile(){
 	./reset.sh
 }
 
-Cal_tps(){
-	avg_tps=0
-	l=$(cat $path_tps | wc -l)
-	for line in `cat $path_tps`
-	do
-		avg_tps=$(echo "scale=4;$avg_tps+$line" | bc)
-	done
-
-	echo "scale=4;$avg_tps/$l" | bc
-}
-Cal_latency(){
-	avg_latency=0
-	l=$(cat $path_latency | wc -l)
-	for line in `cat $path_latency`
-	do
-		avg_latency=$(echo "scale=4;$avg_latency+$line" | bc)
-	done
-	echo "scale=4;$avg_latency/$l" | bc
-}
-Cal_txRate(){
-	avg_txRate=0
-	l=$(cat $path_txRate | wc -l)
-	for line in `cat $path_txRate`
-	do
-		avg_txRate=$(echo "scale=4;$avg_txRate+$line" | bc)
-	done
-	echo "scale=4;$avg_txRate/$l" | bc
-}
-Cal_failTx(){
-	avg_fail=0
-	l=$(cat $path_fail | wc -l)
-	for line in `cat $path_fail`
-	do
-		avg_fail=$(echo "scale=4;$avg_fail+$line" | bc)
-	done
-	echo "scale=4;$avg_fail/$l" | bc
-}
 Reset(){
 	rm $path_tps
 	rm $path_txRate
 	rm $path_latency
-	rm $path_fail
 	touch $path_tps
 	touch $path_txRate
 	touch $path_latency
-	touch $path_fail
 }
 
 WorkLoad(){
@@ -89,17 +50,13 @@ SCP_instance(){
 
 main(){
 
+	echo "-------Start Testing--------"
 	for ((j=0 ; j<$3 ; j++)){
 		ResetLogFile
-		#start_time=$( date +%s.%N )
-		#for ((i=1 ; i<2 ; i++)){
-		#	WorkLoad $1 $2 $3 &
-		#}
-		WorkLoad $1 $2 
-		#elapsed_time=$( date +%s.%N --date="$start_time seconds ago" )
-		#echo "TimeLeft= $elapsed_time"
-		sleep 2
-		SCP_instance $4
+		WorkLoad $1 $2
+	        echo "Transfer data....."	
+		sleep 5
+		#SCP_instance $4
 		echo "CalPerformance....."
 		python $path_cal 
 
@@ -108,10 +65,4 @@ main(){
 
 Reset
 main $1 $2 $3 $4    ##[1] sleep time : ms  [2] tx_num  [3]: iter [4]: instance name
-tps=$(Cal_tps)
-latency=$(Cal_latency)
-tx_rate=$(Cal_txRate)
-echo $tps >> $path_avg_tps
-echo $latency >> $path_avg_latency
-echo $tx_rate >> $path_avg_txRate
-#Reset
+python variance.py
