@@ -101,31 +101,6 @@ ResetReport(){
 	touch $path_var_txRate
 }
 
-SpeedTest(){
-
-	for i in "${array[@]}"
-	do
-		./Performance.sh $i 50 1 $1
-		##[1]:sleep time  [2]:iteration time  [3]:ip address [4]:instance_name [5]:重複測試次數
-	done
-
-	index=0
-	while read line; 
-	do
-   		VARS[$index]="$line"
-   		index=`expr $index + 1`
-
-	done < $path_avg_txRate
-
-	for ((index=0; index<${#VARS[@]}; index++)); 
-	do
-   		#echo "[$index]: ${VARS[$index]}"
-		batchNum[$index]=$(echo "scale = 0; ${VARS[$index]}*$txTime/$threadNum/$nodeNum" | bc -l)
-		echo "[$index]: ${batchNum[$index]}"
-	done
-
-}
-
 Benchmark() {
 
 	index=0
@@ -141,6 +116,7 @@ Benchmark() {
 
 }
 
+#gcloud compute --project "caideyi" ssh --zone "asia-east1-b" "$2" -- './TendermintOnEvm_benchmark/workLoadGenerator/reset.sh'
 ResetReport
 Benchmark $1 $2
 #[1]:iter
