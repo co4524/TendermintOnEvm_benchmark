@@ -57,8 +57,9 @@ SCP_instance(){
 main(){
 
 	let RawTxNum=$2*threadNum
-	echo "-------Start Testing--------"
+	echo "-------------------Start Testing-------------------"
 	for ((j=0 ; j<$3 ; j++)){
+		echo "---------------------------------------------------"
 		echo "Testing interArrival Time : $1 totalTxNum : $2"
 		sc=0  #start account
 		ResetLogFile
